@@ -1,0 +1,431 @@
+{
+  "title": "FEW-Project-Manual",
+  "description": "",
+  "cover_page": {
+    "id": "cover",
+    "title": "FEW-Project-Manual",
+    "type": "page",
+    "content": [
+      {
+        "id": "welcome_heading",
+        "type": "heading",
+        "text": "欢迎来到FEW-Project-Manual",
+        "level": 1,
+        "color": "#c5def1",
+        "align": "center"
+      },
+      {
+        "id": "d065c435",
+        "type": "divider",
+        "created_at": "2025-12-06T08:35:37.883216",
+        "version": "1.0",
+        "style": "solid",
+        "color": "#e2e8f0",
+        "width": "100%",
+        "thickness": "2px"
+      },
+      {
+        "id": "c8539ffc",
+        "type": "note",
+        "created_at": "2025-12-06T08:35:53.531257",
+        "version": "1.0",
+        "text": "你好，也许你不好，但欢迎你来到这里查阅手册",
+        "author": "卡秋KArabella",
+        "color": "#666666",
+        "background": "#f8f9fa",
+        "show_quotes": true
+      },
+      {
+        "id": "a350cb50",
+        "type": "paragraph",
+        "created_at": "2025-12-06T08:39:08.240690",
+        "version": "1.0",
+        "text": "如你所知，这是一个手册网站，内部记载了大量（也许并没有那么多）的文档，供各位随时查阅。\n左侧是目录，FEW-Project-Manual就是本页面所在的位置\n请一定要查阅部分篇章，你若想加入文章的编写请询问KArabella要求webui编辑器\n以下将会说明此网页的部分快捷功能",
+        "color": "#4a5568",
+        "background": "#ffffff",
+        "align": "left",
+        "font_size": "1rem",
+        "line_height": "1.7"
+      },
+      {
+        "id": "c6f3c67b",
+        "type": "divider",
+        "created_at": "2025-12-06T08:51:45.748936",
+        "version": "1.0",
+        "style": "solid",
+        "color": "#e2e8f0",
+        "width": "100%",
+        "thickness": "2px"
+      },
+      {
+        "id": "bd68cc6e",
+        "type": "heading",
+        "created_at": "2025-12-06T08:51:47.497349",
+        "version": "1.0",
+        "text": "快捷操作",
+        "level": 1,
+        "color": "#c5def1",
+        "align": "center",
+        "animation": "none"
+      },
+      {
+        "id": "fef42e44",
+        "type": "note",
+        "created_at": "2025-12-06T08:55:28.623395",
+        "version": "1.0",
+        "text": "尽管以下功能都提供了可视化的，方便的按键，但本人还是建议学会使用键盘快捷键......",
+        "author": "卡秋KArabella",
+        "color": "#666666",
+        "background": "#f8f9fa",
+        "show_quotes": true
+      },
+      {
+        "id": "144943b1",
+        "type": "paragraph",
+        "created_at": "2025-12-06T08:52:57.593400",
+        "version": "1.0",
+        "text": "\nCTRL+K 或者 / 键可快捷打开搜索窗\nCTRL+B 或者 T 键可用于开关目录\nESC 键关闭已打开的搜索框或者关闭目录\nPageUP 翻回上一页\nPageDown或者 空格 翻到下一页\n\n",
+        "color": "#4a5568",
+        "background": "#ffffff",
+        "align": "left",
+        "font_size": "1rem",
+        "line_height": "1.7"
+      }
+    ]
+  },
+  "pages": [
+    {
+      "id": "page_2aa013f1",
+      "title": "优雅之人行优雅之事",
+      "type": "chapter",
+      "content": [
+        {
+          "id": "19448f83",
+          "type": "note",
+          "created_at": "2025-12-06T09:04:23.857473",
+          "version": "1.0",
+          "text": "欢迎来到正文的第一大章，既然你已经加入我们了，那也该学点有用的东西了，这对你我都好",
+          "author": "卡秋KArabella",
+          "color": "#666666",
+          "background": "#f8f9fa",
+          "show_quotes": true
+        },
+        {
+          "id": "ab1c23cb",
+          "type": "paragraph",
+          "created_at": "2025-12-06T09:05:26.618798",
+          "version": "1.0",
+          "text": "如你所见\n这个章节将会告诉你如何优雅的在社团内活动\n\n无论你是新人还是老手，我们都不怎么在乎你的技术基础如何，不过你在此的行事作风却是着实会影响到我们每一位成员；\n为了让新老成员都能更好的融入集体和交流，我写了这章节的文章，希望各位一定要仔细研读\n在左侧目录选择下一个页面或者按下PageDn来进入本大章的第一小章",
+          "color": "#4a5568",
+          "background": "#ffffff",
+          "align": "left",
+          "font_size": "1rem",
+          "line_height": "1.7"
+        }
+      ],
+      "created_at": "2025-12-06T09:03:03.942268",
+      "order": 1
+    },
+    {
+      "id": "page_1ea403cf",
+      "title": "如何优雅的提问",
+      "type": "page",
+      "content": [
+        {
+          "id": "0c7eecb4",
+          "type": "note",
+          "created_at": "2025-12-06T09:11:51.738813",
+          "version": "1.0",
+          "text": "在现代的互联网环境下，这是一篇必修课，但其实大多数人都没上过，因此闹出了许多笑话，令人忍俊不禁",
+          "author": "KArabella",
+          "color": "#666666",
+          "background": "#f8f9fa",
+          "show_quotes": true
+        },
+        {
+          "id": "3428a250",
+          "type": "paragraph",
+          "created_at": "2025-12-06T09:20:15.739097",
+          "version": "1.0",
+          "text": "既然你打开了这一页，说明你已经意识到提问本身是需要学习的(也可能没有，只是随手打开，谁知道呢)。\n这很好。\n在这一章里，我们会与你探讨，在互联网环境下——尤其是在技术社区——应当如何提出一个得体而有效的问题。\n无论你是新人还是老手，你的技术基础并非我们最关注的，但你提问的方式，却实实在在地影响着每一个可能帮助你的人。",
+          "color": "#4a5568",
+          "background": "#ffffff",
+          "align": "left",
+          "font_size": "1rem",
+          "line_height": "1.7"
+        },
+        {
+          "id": "62bcd04b",
+          "type": "heading",
+          "created_at": "2025-12-06T09:21:26.438106",
+          "version": "1.0",
+          "text": "一、为什么你的问题得不到回应？",
+          "level": 1,
+          "color": "#97b1e8",
+          "align": "left",
+          "animation": "none"
+        },
+        {
+          "id": "8103f162",
+          "type": "divider",
+          "created_at": "2025-12-06T09:22:04.771202",
+          "version": "1.0",
+          "style": "solid",
+          "color": "#e2e8f0",
+          "width": "100%",
+          "thickness": "2px"
+        },
+        {
+          "id": "047482f1",
+          "type": "heading",
+          "created_at": "2025-12-06T09:22:05.651779",
+          "version": "1.0",
+          "text": "1. 空洞的呼唤",
+          "level": 3,
+          "color": "#9ab9e8",
+          "align": "left",
+          "animation": "none"
+        },
+        {
+          "id": "acea6971",
+          "type": "paragraph",
+          "created_at": "2025-12-06T09:22:39.440382",
+          "version": "1.0",
+          "text": "“有人在吗？”\n“有没有人懂XXX？”\n\n这像是在空旷的房间中询问“有没有人？”。\n如果问题本身不曾被阐述，那么答案自然也永远无法落地。\n请记住：公共社区是异步交流的场所。你的问题应当自包含，能够被后来者完整阅读，而非一场需要实时应答的对话。",
+          "color": "#4a5568",
+          "background": "#ffffff",
+          "align": "left",
+          "font_size": "1rem",
+          "line_height": "1.7"
+        },
+        {
+          "id": "f32545d5",
+          "type": "heading",
+          "created_at": "2025-12-06T09:24:24.114972",
+          "version": "1.0",
+          "text": "2. 模糊的描述",
+          "level": 3,
+          "color": "#9db7e8",
+          "align": "left",
+          "animation": "none"
+        },
+        {
+          "id": "1ec22903",
+          "type": "paragraph",
+          "created_at": "2025-12-06T09:24:54.395059",
+          "version": "1.0",
+          "text": "“这个功能坏了。”\n“程序跑不起来，怎么办？”\n\n“坏了”和“跑不起来”只是你看到的结果，而非他人能入手分析的现象。\n就像对医生说“我不舒服”，却没有更多症状描述——这除了表达困扰之外，对解决问题并无帮助。\n精确是技术的基石。模糊的提问，只能得到模糊的回应，或者没有回应。\n如果都看过这了，提问这些问题还不给日志，不给详情，那我们只能给你算一卦了\n¯\\_(ツ)_/¯",
+          "color": "#4a5568",
+          "background": "#ffffff",
+          "align": "left",
+          "font_size": "1rem",
+          "line_height": "1.7"
+        },
+        {
+          "id": "1c7ea09b",
+          "type": "heading",
+          "created_at": "2025-12-06T09:27:54.437556",
+          "version": "1.0",
+          "text": "3. 纯粹的索取",
+          "level": 3,
+          "color": "#b1ccf5",
+          "align": "left",
+          "animation": "none"
+        },
+        {
+          "id": "3765e6b7",
+          "type": "paragraph",
+          "created_at": "2025-12-06T09:28:27.239239",
+          "version": "1.0",
+          "text": "“谁能帮我写一个完整的XX系统？急！”\n“给我代码。”\n\n社区的存在基于共享与互助，而非无偿代劳。\n提出这类要求，等同于将他人视为实现你个人目标的工具。\n这并非协作，而是索取。而真正的协作，始于你展现出自己已付出的努力。",
+          "color": "#4a5568",
+          "background": "#ffffff",
+          "align": "left",
+          "font_size": "1rem",
+          "line_height": "1.7"
+        },
+        {
+          "id": "33775c4c",
+          "type": "heading",
+          "created_at": "2025-12-06T09:29:03.678507",
+          "version": "1.0",
+          "text": "二、提问前的准备：尊重他人，更尊重自己",
+          "level": 1,
+          "color": "#bed4f9",
+          "align": "left",
+          "animation": "none"
+        },
+        {
+          "id": "944db803",
+          "type": "divider",
+          "created_at": "2025-12-06T09:31:42.814585",
+          "version": "1.0",
+          "style": "solid",
+          "color": "#e2e8f0",
+          "width": "100%",
+          "thickness": "2px"
+        },
+        {
+          "id": "532ee792",
+          "type": "heading",
+          "created_at": "2025-12-06T09:32:02.252024",
+          "version": "1.0",
+          "text": "1. 你已经搜索过了吗？",
+          "level": 3,
+          "color": "#bfd2f1",
+          "align": "left",
+          "animation": "none"
+        },
+        {
+          "id": "c6ad3168",
+          "type": "paragraph",
+          "created_at": "2025-12-06T09:31:44.515386",
+          "version": "1.0",
+          "text": "你Google了吗？你百度了吗？你必应了吗？你问AI了吗？\n\n在向他人提问之前，问题首先应当面向自己与搜索引擎。\n将错误信息、关键词、你使用的技术栈名称进行组合搜索。\n绝大多数基础问题，都已在互联网的某个角落存在解答。\n尝试自行寻找答案，是对你个人时间与能力的尊重，也是进入任何社区的第一次微小测试。",
+          "color": "#4a5568",
+          "background": "#ffffff",
+          "align": "left",
+          "font_size": "1rem",
+          "line_height": "1.7"
+        },
+        {
+          "id": "1806ccc3",
+          "type": "heading",
+          "created_at": "2025-12-06T09:34:47.039105",
+          "version": "1.0",
+          "text": "2. 你是否已经厘清了问题的边界？",
+          "level": 3,
+          "color": "#bdcff1",
+          "align": "left",
+          "animation": "none"
+        },
+        {
+          "id": "1420b0d9",
+          "type": "paragraph",
+          "created_at": "2025-12-06T09:35:33.576245",
+          "version": "1.0",
+          "text": "在陈述问题时，请确保你已讲明：\n\n环境：你使用的操作系统、软件版本、硬件配置等。\n过程：你做了什么，步骤是什么。\n结果：你看到了什么现象（完整的错误信息、非预期的输出）。\n尝试：你已经基于自己的判断，尝试过哪些解决方法，结果如何。\n\n这并非繁琐，而是效率。这能让他人迅速定位问题所在，避免在猜测中消耗时间。",
+          "color": "#4a5568",
+          "background": "#ffffff",
+          "align": "left",
+          "font_size": "1rem",
+          "line_height": "1.7"
+        },
+        {
+          "id": "b5810325",
+          "type": "divider",
+          "created_at": "2025-12-06T09:37:31.821143",
+          "version": "1.0",
+          "style": "solid",
+          "color": "#e2e8f0",
+          "width": "100%",
+          "thickness": "2px"
+        },
+        {
+          "id": "ee8d8789",
+          "type": "heading",
+          "created_at": "2025-12-06T09:37:33.601693",
+          "version": "1.0",
+          "text": "三、如何组织你的问题",
+          "level": 1,
+          "color": "#b4caf3",
+          "align": "left",
+          "animation": "none"
+        },
+        {
+          "id": "cdb306ed",
+          "type": "paragraph",
+          "created_at": "2025-12-06T09:38:44.454906",
+          "version": "1.0",
+          "text": "1. 使用清晰的标题\n标题应如摘要，扼要说明核心问题。\n例如：“使用Python 3.10时，asyncio模块在Windows下报错Event loop is closed”，远胜于“求助：Python运行出错”。\n\n2. 结构化陈述\n在正文中，有条理地展开我们第二点中提到的几个部分：环境、过程、结果与尝试。\n清晰的段落与格式（如代码块、列表），能让阅读变得轻松。\n\n3. 保持冷静与礼貌\n无需使用“跪求”、“紧急”等情绪化词汇强调紧迫。\n清晰、准确、完整的信息本身，就是最有效的催促。\n请与“谢谢”是礼貌的起点，而非终点。真正的礼貌，在于让帮助你的过程变得简单。",
+          "color": "#4a5568",
+          "background": "#ffffff",
+          "align": "left",
+          "font_size": "1rem",
+          "line_height": "1.7"
+        },
+        {
+          "id": "c64272ca",
+          "type": "heading",
+          "created_at": "2025-12-06T09:40:08.116611",
+          "version": "1.0",
+          "text": "四、结束语",
+          "level": 1,
+          "color": "#c6d4f1",
+          "align": "left",
+          "animation": "none"
+        },
+        {
+          "id": "6e157c3b",
+          "type": "paragraph",
+          "created_at": "2025-12-06T09:40:47.532367",
+          "version": "1.0",
+          "text": "提问，是你与世界对话的方式。\n一个优雅的提问，背后是清晰的思考、独立的尝试，以及对他人时间与专业的基本尊重。\n它不保证你一定能得到答案，但它能最大限度地让那些有能力、也愿意帮助你的人，走到你的面前。\n\n愿你在此，学会提问，也学会协作。\n这不仅对你有用，对我们所有人，都是如此。\n\n此处推荐阅读：南京理工大学生存手册——提问的智慧\nhttps://manual.njust.wiki/notes/freshGuide/smart-questions/",
+          "color": "#4a5568",
+          "background": "#ffffff",
+          "align": "left",
+          "font_size": "1rem",
+          "line_height": "1.7"
+        }
+      ],
+      "created_at": "2025-12-06T09:10:58.475490",
+      "order": 2
+    },
+    {
+      "id": "page_9d5bad18",
+      "title": "如何在现实的行为作风中保持优雅",
+      "type": "page",
+      "content": [
+        {
+          "id": "a06a8e2b",
+          "type": "note",
+          "created_at": "2025-12-06T09:54:24.259668",
+          "version": "1.0",
+          "text": "这些内容本该是你在加入之前就应熟识的，不需要再学习。不过呢，以防万一，以免有哪个二愣子进来捣乱",
+          "author": "KArabella",
+          "color": "#666666",
+          "background": "#f8f9fa",
+          "show_quotes": true
+        },
+        {
+          "id": "07faaf03",
+          "type": "paragraph",
+          "created_at": "2025-12-06T09:56:48.533418",
+          "version": "1.0",
+          "text": "欢迎继续阅读这份手册。本节所讨论的内容，将脱离纯粹的交流与文字，转向你在此地——这间实验室、这些工作台、以及与身边同伴共处的时光——的实际行为。\n\n如你所知，FEW Project 不仅仅是一个存在于聊天群组与代码仓库里的概念。它由零件、工具、拥挤的桌面、以及更重要的是，由具体的人所构成。你在此处的一举一动，共同塑造着此地的氛围与效率。\n因此，我们有必要谈谈，如何在现实的行为作风中，保持一种利于协作、令人舒适、并最终能推动项目向前的“优雅”。",
+          "color": "#4a5568",
+          "background": "#ffffff",
+          "align": "left",
+          "font_size": "1rem",
+          "line_height": "1.7"
+        },
+        {
+          "id": "92ec12bd",
+          "type": "heading",
+          "created_at": "2025-12-06T10:04:13.133863",
+          "version": "1.0",
+          "text": "一、优雅的基础：对公共空间的认知",
+          "level": 2,
+          "color": "#2d3748",
+          "align": "left",
+          "animation": "none"
+        }
+      ],
+      "created_at": "2025-12-06T09:49:33.776383",
+      "order": 3
+    }
+  ],
+  "config": {
+    "theme": "light",
+    "animations": true,
+    "sidebar_collapsible": true,
+    "show_back_to_top": true,
+    "enable_comments": false,
+    "show_word_count": true,
+    "auto_save": true,
+    "font_family": "Inter, 'Microsoft YaHei', sans-serif",
+    "primary_color": "#667eea",
+    "secondary_color": "#764ba2"
+  },
+  "version": "1.0"
+}
